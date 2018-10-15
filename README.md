@@ -7,6 +7,7 @@ A list of UI Kits available for [React](http://facebook.github.io/react/) and [R
 * [Ant Design](https://github.com/ant-design/ant-design) | [Docs](https://ant.design)
 * [Atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) | [Docs](https://atlaskit.atlassian.com)
 * [Baseui](https://github.com/uber-web/baseui) | [Docs](https://baseui.netlify.com/)
+* [Bumbag](https://github.com/bigbellies/bumbag) | [Docs](https://bumbag.io/)
 * [Blueprint](https://github.com/palantir/blueprint) | [Docs](https://blueprintjs.com)
 * [Carbon Components React](https://github.com/IBM/carbon-components-react) | [Docs](http://react.carbondesignsystem.com/)
 * [Elemental UI](https://github.com/elementalui/elemental) | [Docs](http://elemental-ui.com)
