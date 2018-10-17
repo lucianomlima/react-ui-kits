@@ -33,6 +33,7 @@ A list of UI Kits available for [React](http://facebook.github.io/react/) and [R
 * [React Virtualized](https://github.com/bvaughn/react-virtualized) | [Docs](http://www.reactvirtualized.com/)
 * [Reakit](https://github.com/reakit/reakit) | [Docs](https://reakit.io/)
 * [Rebass](https://github.com/rebassjs/rebass) | [Docs](https://rebassjs.org/)
+* [Ring UI](https://github.com/JetBrains/ring-ui) | [Docs](https://jetbrains.github.io/ring-ui/)
 * [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) | [Docs](https://react.semantic-ui.com)
 * [Zent](https://github.com/youzan/zent) | [Docs](https://youzan.github.io/zent/en/guides/install)
 
