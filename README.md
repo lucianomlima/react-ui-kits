@@ -34,6 +34,7 @@ A list of UI Kits available for [React](http://facebook.github.io/react/) and [R
 * [Reakit](https://github.com/reakit/reakit) | [Docs](https://reakit.io/)
 * [Rebass](https://github.com/rebassjs/rebass) | [Docs](https://rebassjs.org/)
 * [Ring UI](https://github.com/JetBrains/ring-ui) | [Docs](https://jetbrains.github.io/ring-ui/)
+* [RSuite](https://github.com/rsuite/rsuite) | [Docs](https://rsuitejs.com/en/)
 * [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) | [Docs](https://react.semantic-ui.com)
 * [Smooth UI](https://github.com/smooth-code/smooth-ui) | [Docs](https://smooth-ui.smooth-code.com)
 * [Zent](https://github.com/youzan/zent) | [Docs](https://youzan.github.io/zent/en/guides/install)
