@@ -21,6 +21,7 @@ A list of UI Kits available for [React](http://facebook.github.io/react/) and [R
 | [Material Components Web](https://github.com/material-components/material-components-web/) | [Docs](https://material.io/develop/web/) |
 | [Onsen UI](https://github.com/OnsenUI/OnsenUI) | [Docs](https://onsen.io/react/) |
 | [PrimeReact](https://github.com/primefaces/primereact) | [Docs](https://www.primefaces.org/primereact) |
+| [Primer React](https://github.com/primer/components) | [Docs](https://primer.style/components) |
 | [Reactstrap](https://github.com/reactstrap/reactstrap) | [Docs](https://reactstrap.github.io/) |
 | [React Belle](https://github.com/nikgraf/belle) | [Docs](http://nikgraf.github.io/belle/) |
 | [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap) | [Docs](https://react-bootstrap.netlify.com) |
