@@ -31,6 +31,7 @@ A list of UI Kits available for [React](http://facebook.github.io/react/) and [R
 | [React Humaaans](https://github.com/jzarca01/react-humaaans) | Docs |
 | [React Kawaii](https://github.com/miukimiu/react-kawaii) | [Docs](https://react-kawaii.now.sh/) |
 | [React MD](https://github.com/mlaursen/react-md) | [Docs](https://react-md.mlaursen.com/) |
+| [React Rainbow](https://github.com/nexxtway/react-rainbow) | [Docs](https://react-rainbow.web.app/) |
 | [React Suite](https://github.com/rsuite/rsuite) | [Docs](https://rsuitejs.com/) |
 | [React Toolbox](https://github.com/react-toolbox/react-toolbox/) | [Docs](http://react-toolbox.io/) |
 | [React UWP](https://github.com/myxvisual/react-uwp) | [Docs](https://www.react-uwp.com/) |
