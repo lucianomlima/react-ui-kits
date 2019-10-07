@@ -14,7 +14,7 @@ A list of UI Kits available for [React](http://facebook.github.io/react/) and [R
 | [Elemental UI](https://github.com/elementalui/elemental) | [Docs](http://elemental-ui.com) |
 | [Essence](https://github.com/Evo-Forge/Essence) | [Docs](http://getessence.io/) |
 | [Evergreen](https://github.com/segmentio/evergreen) | [Docs](https://evergreen.surge.sh/) |
-| Fabric React | [Docs](https://developer.microsoft.com/en-us/fabric) |
+| [Fabric React](https://github.com/OfficeDev/office-ui-fabric-react) | [Docs](https://developer.microsoft.com/en-us/fabric) |
 | [Gestalt](https://github.com/pinterest/gestalt) | [Docs](https://pinterest.github.io/gestalt) |
 | [Grommet](https://github.com/grommet/grommet) | [Docs](https://grommet.io) |
 | [Material-UI](https://github.com/mui-org/material-ui) | [Docs](http://www.material-ui.com/) |
