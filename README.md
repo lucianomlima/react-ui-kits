@@ -42,6 +42,7 @@ A list of UI Kits available for [React](http://facebook.github.io/react/) and [R
 | [RSuite](https://github.com/rsuite/rsuite) | [Docs](https://rsuitejs.com/en/) |
 | [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) | [Docs](https://react.semantic-ui.com) |
 | [Smooth UI](https://github.com/smooth-code/smooth-ui) | [Docs](https://smooth-ui.smooth-code.com) |
+| [Welcome UI](https://github.com/WTTJ/welcome-ui)| [Docs](http://welcome-ui.com/) |
 | [Zendesk Garden](https://github.com/zendeskgarden/react-components) | [Docs](https://zendeskgarden.github.io/react-components/) |
 | [Zent](https://github.com/youzan/zent) | [Docs](https://youzan.github.io/zent/en/guides/install) |
 
