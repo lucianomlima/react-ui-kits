@@ -41,6 +41,7 @@ A list of UI Kits available for [React](http://facebook.github.io/react/) and [R
 | [Ring UI](https://github.com/JetBrains/ring-ui) | [Docs](https://jetbrains.github.io/ring-ui/) |
 | [RSuite](https://github.com/rsuite/rsuite) | [Docs](https://rsuitejs.com/en/) |
 | [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) | [Docs](https://react.semantic-ui.com) |
+| [Shards ReactI](https://github.com/designrevision/shards-react) | [Docs](https://designrevision.com/docs/shards-react/getting-started) |
 | [Smooth UI](https://github.com/smooth-code/smooth-ui) | [Docs](https://smooth-ui.smooth-code.com) |
 | [Welcome UI](https://github.com/WTTJ/welcome-ui)| [Docs](http://welcome-ui.com/) |
 | [Zendesk Garden](https://github.com/zendeskgarden/react-components) | [Docs](https://zendeskgarden.github.io/react-components/) |
