@@ -43,6 +43,7 @@ A list of UI Kits available for [React](http://facebook.github.io/react/) and [R
 | [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) | [Docs](https://react.semantic-ui.com) |
 | [Shards ReactI](https://github.com/designrevision/shards-react) | [Docs](https://designrevision.com/docs/shards-react/getting-started) |
 | [Smooth UI](https://github.com/smooth-code/smooth-ui) | [Docs](https://smooth-ui.smooth-code.com) |
+| [Supabase UI](https://github.com/supabase/ui) | [Docs](https://ui.supabase.com/) |
 | [Welcome UI](https://github.com/WTTJ/welcome-ui)| [Docs](http://welcome-ui.com/) |
 | [Zendesk Garden](https://github.com/zendeskgarden/react-components) | [Docs](https://zendeskgarden.github.io/react-components/) |
 | [Zent](https://github.com/youzan/zent) | [Docs](https://youzan.github.io/zent/en/guides/install) |
