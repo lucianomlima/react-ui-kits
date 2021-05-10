@@ -58,7 +58,7 @@ A list of UI Kits available for [React](http://facebook.github.io/react/) and [R
 | [Panza](https://github.com/panza-org/panza) | Docs |
 | [React Native Common](https://github.com/rghorbani/react-native-common) | [Docs](https://rghorbani.github.io/react-native-common/) |
 | [React Native Elements](https://github.com/react-native-training/react-native-elements) | [Docs](https://react-native-training.github.io/react-native-elements/) |
-| [React Native Kawaii](https://github.com/jzarca01/react-native-kawaii) | Docs |
+| [React Native Kawaii](https://github.com/miukimiu/react-kawaii) | [Docs](https://react-kawaii.vercel.app/) |
 | [React Native Material Kit](https://github.com/xinthink/react-native-material-kit) | [Docs](http://xinthink.github.io/react-native-material-kit/) |
 | [React Native Paper](https://github.com/callstack/react-native-paper) | [Docs](https://callstack.github.io/react-native-paper/) |
 | [React Native UI Kitten](https://github.com/akveo/react-native-ui-kitten) | [Docs](https://akveo.github.io/react-native-ui-kitten/) |
