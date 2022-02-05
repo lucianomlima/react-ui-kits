@@ -19,6 +19,7 @@ A list of UI Kits available for [React](http://facebook.github.io/react/) and [R
 | [Grommet](https://github.com/grommet/grommet) | [Docs](https://grommet.io) |
 | [Material-UI](https://github.com/mui-org/material-ui) | [Docs](http://www.material-ui.com/) |
 | [Material Components Web](https://github.com/material-components/material-components-web/) | [Docs](https://material.io/develop/web/) |
+| [NextUI](https://github.com/nextui-org/nextui) | [Docs](https://nextui.org/) |
 | [Onsen UI](https://github.com/OnsenUI/OnsenUI) | [Docs](https://onsen.io/react/) |
 | [PrimeReact](https://github.com/primefaces/primereact) | [Docs](https://www.primefaces.org/primereact) |
 | [Primer React](https://github.com/primer/components) | [Docs](https://primer.style/components) |
