@@ -6,6 +6,7 @@ A list of UI Kits and component libraries available for [React](https://reactjs.
 | Name | Documentation |
 | - | - |
 | [Ant Design](https://github.com/ant-design/ant-design) | [Docs](https://ant.design) |
+| [Ariakit](https://github.com/ariakit/ariakit) | [Docs](https://ariakit.org) |
 | [Atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) | [Docs](https://atlaskit.atlassian.com) |
 | [Baseui](https://github.com/uber-web/baseui) | [Docs](https://baseui.netlify.com) |
 | [Bumbag](https://github.com/bigbellies/bumbag) | [Docs](https://bumbag.io) |
