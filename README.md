@@ -1,6 +1,6 @@
 # React UI Kits
 
-A list of UI Kits available for [React](http://facebook.github.io/react/) and [React Native](http://facebook.github.io/react-native/).
+A list of UI Kits and component libraries available for [React](https://reactjs.org/) and [React Native](https://reactnative.dev).
 
 ### React
 | Name | Documentation |
@@ -11,12 +11,14 @@ A list of UI Kits available for [React](http://facebook.github.io/react/) and [R
 | [Bumbag](https://github.com/bigbellies/bumbag) | [Docs](https://bumbag.io/) |
 | [Blueprint](https://github.com/palantir/blueprint) | [Docs](https://blueprintjs.com) |
 | [Carbon Components React](https://github.com/IBM/carbon-components-react) | [Docs](http://react.carbondesignsystem.com/) |
+| [Chakra UI](https://github.com/chakra-ui/chakra-ui) | [Docs](https://chakra-ui.com) |
 | [Elemental UI](https://github.com/elementalui/elemental) | [Docs](http://elemental-ui.com) |
 | [Essence](https://github.com/Evo-Forge/Essence) | [Docs](http://getessence.io/) |
 | [Evergreen](https://github.com/segmentio/evergreen) | [Docs](https://evergreen.surge.sh/) |
 | [Fabric React](https://github.com/OfficeDev/office-ui-fabric-react) | [Docs](https://developer.microsoft.com/en-us/fabric) |
 | [Gestalt](https://github.com/pinterest/gestalt) | [Docs](https://pinterest.github.io/gestalt) |
 | [Grommet](https://github.com/grommet/grommet) | [Docs](https://grommet.io) |
+| [Mantine](https://github.com/mantinedev/mantine)| [Docs](https://mantine.dev) |
 | [Material-UI](https://github.com/mui-org/material-ui) | [Docs](http://www.material-ui.com/) |
 | [Material Components Web](https://github.com/material-components/material-components-web/) | [Docs](https://material.io/develop/web/) |
 | [NextUI](https://github.com/nextui-org/nextui) | [Docs](https://nextui.org/) |
@@ -27,6 +29,7 @@ A list of UI Kits available for [React](http://facebook.github.io/react/) and [R
 | [React Belle](https://github.com/nikgraf/belle) | [Docs](http://nikgraf.github.io/belle/) |
 | [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap) | [Docs](https://react-bootstrap.netlify.com) |
 | [React Components](https://github.com/Khan/react-components) | [Docs](http://khan.github.io/react-components/) |
+| [React Daisy UI](https://github.com/daisyui/react-daisyui) | [Docs](http://react.daisyui.com) |
 | [React Desktop](https://github.com/gabrielbull/react-desktop) | [Docs](http://reactdesktop.js.org/) |
 | [React Foundation](https://github.com/digiaonline/react-foundation) | [Docs](https://react.foundation/) |
 | [React Humaaans](https://github.com/jzarca01/react-humaaans) | Docs |
