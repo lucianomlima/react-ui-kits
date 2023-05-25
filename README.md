@@ -68,5 +68,6 @@ A list of UI Kits and component libraries available for [React](https://reactjs.
 | [React Native Material Kit](https://github.com/xinthink/react-native-material-kit) | [Docs](http://xinthink.github.io/react-native-material-kit) |
 | [React Native Paper](https://github.com/callstack/react-native-paper) | [Docs](https://callstack.github.io/react-native-paper) |
 | [React Native UI Kitten](https://github.com/akveo/react-native-ui-kitten) | [Docs](https://akveo.github.io/react-native-ui-kitten) |
+| [React Native UI Lib](https://github.com/wix/react-native-ui-lib) | [Docs](https://wix.github.io/react-native-ui-lib/) |
 | [React Virgin](https://github.com/Trixieapp/react-virgin) | [Docs](https://trixieapp.github.io/react-virgin) |
 | [Shoutem UI](https://github.com/shoutem/ui) | [Docs](http://shoutem.github.io/docs/ui-toolkit/introduction) |
